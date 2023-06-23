@@ -1,8 +1,262 @@
 {
-  "posts": [
+  "getWorkPlanManage": [
     {
-      "id": 1,
-      "title": "hello"
+      "message": "Data berhasil dimuat",
+      "success": true,
+      "data":{
+        "workPlan" : 
+        [
+  {
+    "12 June": {
+      "production_plan": {
+        "shift": [
+          {
+            "id": 123,
+            "name": "shift pendek",
+            "start": "07-00",
+            "end": "15:00"
+          }
+        ],
+        "machine_type": [
+          {
+            "id": 1,
+            "name": "MK",
+            "note": "catatan",
+            "machine": [
+              {
+                "id": 1,
+                "name": "MK9A",
+                "note": "catatan",
+                "product": [
+                  {
+                    "id": 123,
+                    "name": "arf12df",
+                    "code": "MR1101",
+                    "alias": "ARF12DF",
+                    "qty": 10,
+                    "unit": {
+                      "id": 1,
+                      "name": "stick",
+                      "multiplier": 1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "work_plan": {
+        "id": 123123,
+        "employee_qc": [
+          {
+            "id": 123,
+            "name": "Imam",
+            "shift": 
+            [
+                {
+                   "id": 123,
+                   "name": "shift pendek",
+                   "start": "07-00",
+                   "end": "15:00"
+                }
+
+            ]
+          }
+        ],
+        "note": "catatan",
+        "machine_type": [
+          {
+            "id": 1,
+            "name": "MK",
+            "shift": [
+              {
+                "id": 123,
+                "name": "shift pendek",
+                "start": "07-00",
+                "end": "15:00",
+                "employee_mechanic": [
+                  {
+                    "id": 123,
+                    "name": "muntaha"
+                  }
+                ],
+                "note": "catatan"
+              }
+            ],
+            "machine": [
+              {
+                "id": 1,
+                "name": "MK9A",
+                "shift": [
+                  {
+                    "id": 123,
+                    "name": "shift pendek",
+                    "start": "07-00",
+                    "end": "15:00",
+                    "employee_helper": [
+                      {
+                        "id": 123,
+                        "name": "Imam"
+                      }
+                    ],
+                    "employee_catcher": [
+                      {
+                        "id": 123,
+                        "name": "Imam"
+                      }
+                    ],
+                    "employee_operator": [
+                      {
+                        "id": 123,
+                        "name": "Imam"
+                      }
+                    ],
+                    "note": "catatan",
+                    "product": [
+                      {
+                        "id": 123,
+                        "name": "arf12df",
+                        "code": "MR1101",
+                        "alias": "ARF12DF",
+                        "qty": 10,
+                        "unit": {
+                          "id": 1,
+                          "name": "stick",
+                          "multiplier": 1
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "13 June": {
+      "production_plan": {
+        "shift": [
+          {
+            "id": 123,
+            "name": "shift pendek",
+            "start": "07-00",
+            "end": "15:00"
+          }
+        ],
+        "machine_type": [
+          {
+            "id": 1,
+            "name": "MK",
+            "note": "catatan",
+            "machine": [
+              {
+                "id": 1,
+                "name": "MK9A",
+                "note": "catatan",
+                "product": [
+                  {
+                    "id": 123,
+                    "name": "arf12df",
+                    "code": "MR1101",
+                    "alias": "ARF12DF",
+                    "qty": 10,
+                    "unit": {
+                      "id": 1,
+                      "name": "stick",
+                      "multiplier": 1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "work_plan": {
+        "id": 123123,
+        "employee_qc": [
+          {
+            "id": 123,
+            "name": "Imam"
+          }
+        ],
+        "note": "catatan",
+        "machine_type": [
+          {
+            "id": 1,
+            "name": "MK",
+            "shift": [
+              {
+                "id": 123,
+                "name": "shift pendek",
+                "start": "07-00",
+                "end": "15:00",
+                "employee_mechanic": [
+                  {
+                    "id": 123,
+                    "name": "muntaha"
+                  }
+                ],
+                "note": "catatan"
+              }
+            ],
+            "machine": [
+              {
+                "id": 1,
+                "name": "MK9A",
+                "shift": [
+                  {
+                    "id": 123,
+                    "name": "shift pendek",
+                    "start": "07-00",
+                    "end": "15:00",
+                    "employee_helper": [
+                      {
+                        "id": 123,
+                        "name": "Imam"
+                      }
+                    ],
+                    "employee_catcher": [
+                      {
+                        "id": 123,
+                        "name": "Imam"
+                      }
+                    ],
+                    "employee_operator": [
+                      {
+                        "id": 123,
+                        "name": "Imam"
+                      }
+                    ],
+                    "note": "catatan",
+                    "product": [
+                      {
+                        "id": 123,
+                        "name": "arf12df",
+                        "code": "MR1101",
+                        "alias": "ARF12DF",
+                        "qty": 10,
+                        "unit": {
+                          "id": 1,
+                          "name": "stick",
+                          "multiplier": 1
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
+        
+      }
     }
   ],
   "profile": {
