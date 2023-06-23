@@ -47,40 +47,46 @@
               },
               "work_plan": {
                 "id": 123123,
-                "employee_qc": [
+                "shift_qc": [
                   {
                     "id": 123,
-                    "name": "Imam",
-                    "shift": [
+                    "shift": {
+                      "id": 123,
+                      "name": "shift pendek",
+                      "start": "07-00",
+                      "end": "15:00"
+                    },
+                    "employee_qc": [
                       {
                         "id": 123,
-                        "name": "shift pendek",
-                        "start": "07-00",
-                        "end": "15:00"
-                      }
-                    ]
-                  }
-                ],
-                "note": "catatan",
-                "machine_type": [
-                  {
-                    "id": 1,
-                    "name": "MK",
-                    "shift": [
-                      {
-                        "id": 123,
-                        "name": "shift pendek",
-                        "start": "07-00",
-                        "end": "15:00",
-                        "employee_mechanic": [
-                          {
-                            "id": 123,
-                            "name": "muntaha"
-                          }
-                        ],
-                        "note": "catatan"
+                        "name": "Imam"
                       }
                     ],
+                    "note": "catatan"
+                  }
+                ],
+                "shift_mechanic": [
+                  {
+                    "id": 123,
+                    "shift": {
+                      "id": 123,
+                      "name": "shift pendek",
+                      "start": "07-00",
+                      "end": "15:00"
+                    },
+                    "machine_type": [
+                      {
+                        "id": 1,
+                        "name": "MK"
+                      }
+                    ],
+                    "employee_mechanic": [
+                      {
+                        "id": 123,
+                        "name": "muntaha"
+                      }
+                    ],
+                    "note": "catatan",
                     "machine": [
                       {
                         "id": 1,
@@ -173,32 +179,46 @@
               },
               "work_plan": {
                 "id": 123123,
-                "employee_qc": [
+                "shift_qc": [
                   {
                     "id": 123,
-                    "name": "Imam"
-                  }
-                ],
-                "note": "catatan",
-                "machine_type": [
-                  {
-                    "id": 1,
-                    "name": "MK",
-                    "shift": [
+                    "shift": {
+                      "id": 123,
+                      "name": "shift pendek",
+                      "start": "07-00",
+                      "end": "15:00"
+                    },
+                    "employee_qc": [
                       {
                         "id": 123,
-                        "name": "shift pendek",
-                        "start": "07-00",
-                        "end": "15:00",
-                        "employee_mechanic": [
-                          {
-                            "id": 123,
-                            "name": "muntaha"
-                          }
-                        ],
-                        "note": "catatan"
+                        "name": "Imam"
                       }
                     ],
+                    "note": "catatan"
+                  }
+                ],
+                "shift_mechanic": [
+                  {
+                    "id": 123,
+                    "shift": {
+                      "id": 123,
+                      "name": "shift pendek",
+                      "start": "07-00",
+                      "end": "15:00"
+                    },
+                    "machine_type": [
+                      {
+                        "id": 1,
+                        "name": "MK"
+                      }
+                    ],
+                    "employee_mechanic": [
+                      {
+                        "id": 123,
+                        "name": "muntaha"
+                      }
+                    ],
+                    "note": "catatan",
                     "machine": [
                       {
                         "id": 1,
