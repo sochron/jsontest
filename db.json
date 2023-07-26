@@ -1,19 +1,15 @@
 {
-	"getDataCluster":
-	{
-		"message": "Data berhasil dimuat",
-		"success": true,
-		"data": 
-		{
-			"0":
-			{
-				"timeStart": 1690354801,
-				"timeEnd": 1690356000,
-				"isComplete": 1, 
-				"lastUpdate": "18:17:01", 
-				"lastRequest": "18:17:00",
-				"data": 
-				[
+  "getDataCluster": {
+    "message": "Data berhasil dimuat",
+    "success": true,
+    "data": {
+      "0": {
+        "timeStart": 1690354801,
+        "timeEnd": 1690356000,
+        "isComplete": 1,
+        "lastUpdate": "18:17:01",
+        "lastRequest": "18:17:00",
+        "data": [
           {
             "time": 1690354801,
             "data": [
@@ -930,7 +926,7 @@
             ]
           }
         ]
-			}
-		}
-	}
+      }
+    }
+  }
 }
