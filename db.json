@@ -277,5 +277,939 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "getDataCluster":
+	{
+		"message": "Data berhasil dimuat",
+		"success": true,
+		"data": 
+		{
+			"0":
+			{
+				"timeStart": 1690354801,
+				"timeEnd": 1690356000,
+				"isComplete": 1, 
+				"lastUpdate": "18:17:01", 
+				"lastRequest": "18:17:00",
+				"data": 
+				[
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.96915,
+                  "lat": 112.618162
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.969139,
+                  "lat": 112.618006
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.969075,
+                  "lat": 112.617695
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.969043,
+                  "lat": 112.617545
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.968969,
+                  "lat": 112.617395
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.96882,
+                  "lat": 112.617084
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.968841,
+                  "lat": 112.616923
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.968756,
+                  "lat": 112.616783
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.96848,
+                  "lat": 112.616483
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.968304,
+                  "lat": 112.616365
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.968124,
+                  "lat": 112.616215
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967943,
+                  "lat": 112.616124
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967815,
+                  "lat": 112.616011
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967715,
+                  "lat": 112.615877
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967661,
+                  "lat": 112.615759
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967598,
+                  "lat": 112.615609
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967598,
+                  "lat": 112.615474
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967555,
+                  "lat": 112.615356
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967502,
+                  "lat": 112.615276
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967529,
+                  "lat": 112.61519
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967465,
+                  "lat": 112.615094
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967475,
+                  "lat": 112.615024
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967438,
+                  "lat": 112.614927
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967438,
+                  "lat": 112.614825
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967401,
+                  "lat": 112.614681
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967364,
+                  "lat": 112.614579
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967359,
+                  "lat": 112.614509
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967369,
+                  "lat": 112.614455
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967417,
+                  "lat": 112.614369
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967348,
+                  "lat": 112.614257
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967359,
+                  "lat": 112.614198
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967369,
+                  "lat": 112.614112
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967343,
+                  "lat": 112.614015
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967348,
+                  "lat": 112.613924
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967332,
+                  "lat": 112.613828
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967337,
+                  "lat": 112.613736
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.96729,
+                  "lat": 112.613618
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967247,
+                  "lat": 112.613495
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.96722,
+                  "lat": 112.613388
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967151,
+                  "lat": 112.613275
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967135,
+                  "lat": 112.6132
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967135,
+                  "lat": 112.613119
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967104,
+                  "lat": 112.613023
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967088,
+                  "lat": 112.612932
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967029,
+                  "lat": 112.612803
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967013,
+                  "lat": 112.612717
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966987,
+                  "lat": 112.612621
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.967003,
+                  "lat": 112.612508
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966981,
+                  "lat": 112.612411
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.96696,
+                  "lat": 112.612293
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966907,
+                  "lat": 112.61217
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966918,
+                  "lat": 112.612041
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.96687,
+                  "lat": 112.611918
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966811,
+                  "lat": 112.611703
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966737,
+                  "lat": 112.611564
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966684,
+                  "lat": 112.611408
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966657,
+                  "lat": 112.611296
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966636,
+                  "lat": 112.611156
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.96662,
+                  "lat": 112.611081
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.966546,
+                  "lat": 112.610984
+                }
+              }
+            ]
+          },
+          {
+            "time": 1690354801,
+            "data": [
+              {
+                "salesman": {
+                  "id": "92",
+                  "name": "Dian"
+                },
+                "coordinate": {
+                  "lng": -7.96654,
+                  "lat": 112.610888
+                }
+              }
+            ]
+          }
+        ]
+			}
+		}
+	}
 }
